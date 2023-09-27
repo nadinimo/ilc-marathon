@@ -37,7 +37,7 @@ body {
 label{
     padding-left: 10px;
     padding-right: 15px;
-    color: rgb(41, 97, 8);
+    color: rgbrgb(0, 0, 0);
     font-weight: 600;
     text-align: left;
     flex: 1;
@@ -65,7 +65,7 @@ select{
 .submit button{
     font : 12px;
     padding: 10px;
-    background-color: rgb(236, 233, 26) ;
+    background-color: rgb(42, 107, 204) ;
     border-radius: 10px;
     font-family: sans-serif;
     border-style: inherit;
