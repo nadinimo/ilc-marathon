@@ -1,0 +1,74 @@
+
+html{
+    padding: 50px;
+    margin-top: 25px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: rgb(155, 170, 255);
+    
+}
+header {
+    padding: 15px;
+}
+header.container {
+    display: flow-root;
+    justify-content: center;
+}
+img {
+    height: 100px;
+}
+h1{
+    font-size: 40px;
+    font-family:Helvetica;
+    text-align: center;
+}
+
+body {
+    padding: 15px;
+    margin: 10px;
+    font-family: sans-serif ;
+    text-align: center;
+}
+.form-group{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+label{
+    padding-left: 10px;
+    padding-right: 15px;
+    color: rgb(41, 97, 8);
+    font-weight: 600;
+    text-align: left;
+    flex: 1;
+}
+input{
+    padding-right: 10px;
+    justify-content: left;
+    flex: 2;
+    height: 25px;
+    width : 300px;
+    border-radius: 5px;
+    border-style: inherit;
+}
+select{
+    height: 25px;
+    width : 329px;
+    border-radius: 5px;
+    border-style: inherit;
+}
+.submit{
+    width: auto;
+    display: flex;
+    justify-content: right;
+}
+.submit button{
+    font : 12px;
+    padding: 10px;
+    background-color: rgb(236, 233, 26) ;
+    border-radius: 10px;
+    font-family: sans-serif;
+    border-style: inherit;
+    font-weight: bold;
+    justify-content: right;
+}
